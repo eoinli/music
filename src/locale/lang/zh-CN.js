@@ -184,7 +184,7 @@ export default {
     lyricsBackground: {
       text: '显示歌词背景',
       off: '关闭',
-      on: '打开',
+      on: '渐变色',
       dynamic: '动态（GPU 占用较高）',
     },
     showLyricsTime: '显示当前时间',
