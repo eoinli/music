@@ -5,7 +5,7 @@ export default {
   },
   nav: {
     home: 'Home',
-    explore: 'Discover',
+    explore: 'Discovery',
     library: 'Library',
     search: 'Search',
     github: 'GitHub Repo',
@@ -42,7 +42,7 @@ export default {
     },
   },
   explore: {
-    explore: 'Explore',
+    explore: 'Discovery',
     loadMore: 'More',
   },
   artist: {
